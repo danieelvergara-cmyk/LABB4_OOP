@@ -1,0 +1,14 @@
+/Users/camilovergara/Developer/projects/Labbar/ARVlektion/OOPLabb4/CircleApp/bin/Debug/net10.0/CircleApp
+/Users/camilovergara/Developer/projects/Labbar/ARVlektion/OOPLabb4/CircleApp/bin/Debug/net10.0/CircleApp.deps.json
+/Users/camilovergara/Developer/projects/Labbar/ARVlektion/OOPLabb4/CircleApp/bin/Debug/net10.0/CircleApp.runtimeconfig.json
+/Users/camilovergara/Developer/projects/Labbar/ARVlektion/OOPLabb4/CircleApp/bin/Debug/net10.0/CircleApp.dll
+/Users/camilovergara/Developer/projects/Labbar/ARVlektion/OOPLabb4/CircleApp/bin/Debug/net10.0/CircleApp.pdb
+/Users/camilovergara/Developer/projects/Labbar/ARVlektion/OOPLabb4/CircleApp/obj/Debug/net10.0/CircleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camilovergara/Developer/projects/Labbar/ARVlektion/OOPLabb4/CircleApp/obj/Debug/net10.0/CircleApp.AssemblyInfoInputs.cache
+/Users/camilovergara/Developer/projects/Labbar/ARVlektion/OOPLabb4/CircleApp/obj/Debug/net10.0/CircleApp.AssemblyInfo.cs
+/Users/camilovergara/Developer/projects/Labbar/ARVlektion/OOPLabb4/CircleApp/obj/Debug/net10.0/CircleApp.csproj.CoreCompileInputs.cache
+/Users/camilovergara/Developer/projects/Labbar/ARVlektion/OOPLabb4/CircleApp/obj/Debug/net10.0/CircleApp.dll
+/Users/camilovergara/Developer/projects/Labbar/ARVlektion/OOPLabb4/CircleApp/obj/Debug/net10.0/refint/CircleApp.dll
+/Users/camilovergara/Developer/projects/Labbar/ARVlektion/OOPLabb4/CircleApp/obj/Debug/net10.0/CircleApp.pdb
+/Users/camilovergara/Developer/projects/Labbar/ARVlektion/OOPLabb4/CircleApp/obj/Debug/net10.0/CircleApp.genruntimeconfig.cache
+/Users/camilovergara/Developer/projects/Labbar/ARVlektion/OOPLabb4/CircleApp/obj/Debug/net10.0/ref/CircleApp.dll
