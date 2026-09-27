@@ -1,6 +1,6 @@
 class Program
 {
-    static void Main()
+    static void Main(string[] args)
     {
         Circle circle5 = new Circle(5);
         Circle circle6 = new Circle(6);

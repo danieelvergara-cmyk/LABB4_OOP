@@ -1,6 +1,6 @@
 class Circle
 {
-    private readonly int _radius;
+    private  int _radius;
 
     public Circle(int radius)
     {
